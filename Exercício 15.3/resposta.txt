@@ -1,0 +1,5 @@
+Python é na verdade uma linguagem interpretada, e não compilada, o que geralmente implica em uma execução mais lenta em 
+comparação com linguagens compiladas. No entanto, sua popularidade na Ciência de Dados deve-se à sua simplicidade e legibilidade, 
+que facilitam a aprendizagem e o uso. Além disso, possui uma vasta gama de bibliotecas especializadas, como NumPy, Pandas, e SciPy, 
+que otimizam e aceleram o processamento de dados. Python também se integra bem com sistemas de código nativo e ferramentas de 
+processamento paralelo, permitindo o processamento eficiente de grandes volumes de dados, como imagens de satélite.
